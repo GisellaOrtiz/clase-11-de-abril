@@ -1,0 +1,24 @@
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE11DE-ABRIL\CLASE11DE-ABRIL\bin\Debug\CLASE11DE-ABRIL.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE11DE-ABRIL\CLASE11DE-ABRIL\bin\Debug\CLASE11DE-ABRIL.exe
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE11DE-ABRIL\CLASE11DE-ABRIL\bin\Debug\CLASE11DE-ABRIL.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE11DE-ABRIL\CLASE11DE-ABRIL\obj\Debug\CLASE11DE-ABRIL.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE11DE-ABRIL\CLASE11DE-ABRIL\obj\Debug\CLASE11DE_ABRIL.MDIParent1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE11DE-ABRIL\CLASE11DE-ABRIL\obj\Debug\CLASE11DE_ABRIL.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE11DE-ABRIL\CLASE11DE-ABRIL\obj\Debug\CLASE11DE-ABRIL.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE11DE-ABRIL\CLASE11DE-ABRIL\obj\Debug\CLASE11DE-ABRIL.exe
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE11DE-ABRIL\CLASE11DE-ABRIL\obj\Debug\CLASE11DE-ABRIL.pdb
+C:\Users\ZITRO\Documents\Ejercicios progra01\Periodo02\CLASE 11 DE-ABRIL\CLASE11DE-ABRIL\bin\Debug\CLASE11DE-ABRIL.exe.config
+C:\Users\ZITRO\Documents\Ejercicios progra01\Periodo02\CLASE 11 DE-ABRIL\CLASE11DE-ABRIL\bin\Debug\CLASE11DE-ABRIL.exe
+C:\Users\ZITRO\Documents\Ejercicios progra01\Periodo02\CLASE 11 DE-ABRIL\CLASE11DE-ABRIL\bin\Debug\CLASE11DE-ABRIL.pdb
+C:\Users\ZITRO\Documents\Ejercicios progra01\Periodo02\CLASE 11 DE-ABRIL\CLASE11DE-ABRIL\obj\Debug\CLASE11DE-ABRIL.csprojAssemblyReference.cache
+C:\Users\ZITRO\Documents\Ejercicios progra01\Periodo02\CLASE 11 DE-ABRIL\CLASE11DE-ABRIL\obj\Debug\CLASE11DE_ABRIL.Form1.resources
+C:\Users\ZITRO\Documents\Ejercicios progra01\Periodo02\CLASE 11 DE-ABRIL\CLASE11DE-ABRIL\obj\Debug\CLASE11DE_ABRIL.MDIParent1.resources
+C:\Users\ZITRO\Documents\Ejercicios progra01\Periodo02\CLASE 11 DE-ABRIL\CLASE11DE-ABRIL\obj\Debug\CLASE11DE_ABRIL.Properties.Resources.resources
+C:\Users\ZITRO\Documents\Ejercicios progra01\Periodo02\CLASE 11 DE-ABRIL\CLASE11DE-ABRIL\obj\Debug\CLASE11DE-ABRIL.csproj.GenerateResource.cache
+C:\Users\ZITRO\Documents\Ejercicios progra01\Periodo02\CLASE 11 DE-ABRIL\CLASE11DE-ABRIL\obj\Debug\CLASE11DE-ABRIL.csproj.CoreCompileInputs.cache
+C:\Users\ZITRO\Documents\Ejercicios progra01\Periodo02\CLASE 11 DE-ABRIL\CLASE11DE-ABRIL\obj\Debug\CLASE11DE-ABRIL.exe
+C:\Users\ZITRO\Documents\Ejercicios progra01\Periodo02\CLASE 11 DE-ABRIL\CLASE11DE-ABRIL\obj\Debug\CLASE11DE-ABRIL.pdb
+C:\Users\ZITRO\Documents\Ejercicios progra01\Periodo02\CLASE 11 DE-ABRIL\CLASE11DE-ABRIL\obj\Debug\CLASE11DE_ABRIL.Form2.resources
+C:\Users\ZITRO\Documents\Ejercicios progra01\Periodo02\CLASE 11 DE-ABRIL\CLASE11DE-ABRIL\obj\Debug\CLASE11DE_ABRIL.Form3.resources
+C:\Users\ZITRO\Documents\Ejercicios progra01\Periodo02\CLASE 11 DE-ABRIL\CLASE11DE-ABRIL\obj\Debug\CLASE11DE_ABRIL.Form4.resources
+C:\Users\ZITRO\Documents\Ejercicios progra01\Periodo02\CLASE 11 DE-ABRIL\CLASE11DE-ABRIL\obj\Debug\CLASE11DE_ABRIL.Form5.resources
